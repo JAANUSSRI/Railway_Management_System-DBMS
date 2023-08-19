@@ -16,8 +16,7 @@ http://www.oracle.com/technetwork/java/javase/jdbc/index.htmloblem Specification
 
 	Front­end: NetBeans IDE 6.x (Java) 
 	Back­end : Oracle10g
-
-### Make sure connectivity to your database is established properly.
+********** Make sure connectivity to your database and netbeans is established properly. **********
 
 **PROJECT DESCRIPTION**
 * This project is about creating a database about Railway Management System.
