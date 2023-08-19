@@ -5,33 +5,6 @@ PROJECT MEMBERS
 * Tejaswi Kakarla
 * Mega V
 
-**PROJECT DESCRIPTION**
-* This project is about creating a database about Railway Management System.
-* This system facilitates the passengers to enquire about the available trains at the required source and destination. The passenger can book or cancel the ticket and can view the status of booked tickets.
-* Only admin have the access to make changes in the database record like adding or removing any train and station.
-
-**SPECIFICATIONS**
-1. Train scheduling
-	This system able to schedule and manage the arrival and departure times of trains, considering factors such as stations, capacity.
-2. Ticketing
-	This system provides fare calculation of tickets with respect to distance and number of passengers.
-3. Passenger Information
-	This system provides real-time information to passengers regarding train schedules and status.
-4. Resource Management
-	This system allocates resources like trains and seats efficiently to optimize operations and minimize conflicts.
-
-**ASSUMPTIONS**
-1. Data Integration 
-	This system assumes the existence of various sources, such as train schedules, ticketing systems, and 
-record maintenance to provide comprehensive view of operations.
-2. User Roles and Permissions 
-	This system assumes the existence of different user roles, such as administrators existing users and      new users with appropriate access permissions and restrictions.
-3. Compliance and Regulations
-	This system assumes compliance with applicable railway regulations and data protections.
-4. Scalability 
-	This system assumes the ability to handle growing number of trains and passengers.
-
-
 **RELATIONSHIPS**
 
 _1:N Relationship_
