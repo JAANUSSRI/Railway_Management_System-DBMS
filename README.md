@@ -5,6 +5,20 @@ PROJECT MEMBERS:
 * Tejaswi Kakarla
 * Mega V
 
+### REQUIREMENTS TO RUN THE PROJECT IN YOUR SYSTEM:
+
+• Software: The Java 2 Platform (either the Java 2 SDK, Standard Edition, or the Java 2 
+SDK, Enterprise Edition), an SQL database, and a JDBC technology­based driver for that 
+database.
+
+• Hardware: Same as for the Java 2 Platform. Reference:
+http://www.oracle.com/technetwork/java/javase/jdbc/index.htmloblem Specification:
+
+	Front­end: NetBeans IDE 6.x (Java) 
+	Back­end : Oracle10g
+
+### Make sure connectivity to your database is established properly.
+
 **PROJECT DESCRIPTION**
 * This project is about creating a database about Railway Management System.
 * This system facilitates the passengers to enquire about the available trains at the required source and destination. The passenger can book or cancel the ticket and can view the status of booked tickets.
